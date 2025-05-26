@@ -1,72 +1,80 @@
-Recovering from the pandemic, the international exchange reboots. We hold XX workshop in Kanazawa-Hakkei Campus of Yokohama City University on January XXth, 2024. This event will have both oral and poster presentations by students from Graduate School of Nanobioscience at Yokohama City University (YCU), and _other school names_. We hope the strong interaction between students from various countries.
+Recovering from the pandemic, the international exchange reboots. We hold this workshop in Kanazawa-Hakkei Campus of Yokohama City University on May 31st, 2025. This event will have oral presentations by by invited speakers form Japan, Taiwan and Thailand. We look forward to productive discussions.
+
 
 # Registration
 
-| Date | ToDo |
-| :--- | :--- |
-| January XXth | Deadline for Registration <br> https://forms.office.com/ |
-| January XXth | Deadline for Submission of Titles <br> https://forms.office.com/ |
+Thank you for your applications!
 
 # Program
 
-Wednesday, January XXth, 2024.
+Saturday, May 31st, 2025<br>
+“Peony-Hall”, Bldg. YCU square (1F), Yokohama City University
 
-| Start | End   | Speaker | Title |
-| :---: | :---: | :------ | :---- |
-| 13:30 | 13:50 | | **Registration** |
-| 13:50 | 14:00 | | **Opening remarks** by Prof. John Doe |
-| 14:00 | 14:30 | John Doe | New universality of the nuclear quantum effects in proton science |
-| 14:30 | 15:00 | John Doe | New universality of the nuclear quantum effects in proton science |
-| 15:00 | 15:20 | | **Coffee Break** |
-| 15:20 | 15:40 | John Doe | New universality of the nuclear quantum effects in proton science |
-| 15:40 | 16:00 | John Doe | New universality of the nuclear quantum effects in proton science |
-| 16:00 | 16:30 | | **Poster Session** (by speakers who have odd no.) |
-| 16:30 | 17:00 | | **Poster Session** (by speakers who have even no.) |
-| 17:00 | 17:20 | John Doe | New universality of the nuclear quantum effects in proton science |
-| 17:20 | 17:40 | John Doe | New universality of the nuclear quantum effects in proton science |
-| 17:40 | 17:50 | | **Closing remarks** by Prof. John Doe |
-| 17:50 | 18:00 | | **Award ceremony** by Prof. John Doe |
-| 18:30 | 21:00 | | **Banquet** at _Ristorante Prima Stella_ |
+### Opening Remarks
 
-# Invited Speakers
+| Start | End   |         |
+| :---: | :---: | :------ |
+| 10:30 | 10:40 | **Opening remarks**<br>by Prof. **Masaru Tachibana** (Vice President, Yokohama City University, Japan) |
+| 10:40 | 10:50 | **Opening remarks**<br>by Prof. **Masanori Tachikawa** (Dean, Yokohama City University, Japan) |
 
-Meet the invited speakers:
+### Session 1
 
-- __Prof. John Doe__ from [YCU](https://www-user.yokohama-cu.ac.jp/~tachi/member.html)
-  <br>His specialty is the development of ab initio calculation methods and application to hydrogen compounds. He will give a lecture on recent progress.
+Chair: **Rathawat Daengngern** (King Mongkut's Institute of Technology Ladkrabang, Thailand)
 
-- __Prof. John Doe__ from [YCU](https://www-user.yokohama-cu.ac.jp/~tachi/member.html)
-  <br>His specialty is the development of ab initio calculation methods and application to hydrogen compounds. He will give a lecture on recent progress.
+| Start | End   |         |
+| :---: | :---: | :------ |
+| 10:50 | 11:10 | **Taro Udagawa** (Gifu University, Japan)<br>Location of the shared proton in proton-bound dimer compound of hydrogen sulfate and formate: Path integral molecular dynamics study |
+| 11:10 | 11:30 | **Daisuke Yoshida** (Tohoku University, Japan)<br>Density functional study on positron binding in water clusters: Insights into hydrated positron states |
+| 11:30 | 11:50 | **Yusuke Kanematsu** (Hiroshima University, Japan)<br>Multicomponent QM calculation of H/D isotope shifts in NMR and UV/Vis spectra of water |
+| 11:50 | 13:00 | **Lunch Break (70 min.)** |
 
-# Poster Session
+### Session 2
 
-The presenters with odd numbers will have poster presentations first half, and those with even numbers second half. Each poster board is 90cm x 120cm (width x height).
+Chair: **Tinnakorn Saelee** (Walailak University, Thailand)  
 
-| No. | Name | Title |
-| :-- | :--- | :---- |
-|  1 | John Doe | New universality of the nuclear quantum effects in proton science |
-|  2 | John Doe | New universality of the nuclear quantum effects in proton science |
-|  3 | John Doe | New universality of the nuclear quantum effects in proton science |
-|  4 | John Doe | New universality of the nuclear quantum effects in proton science |
-|  5 | John Doe | New universality of the nuclear quantum effects in proton science |
-|  6 | John Doe | New universality of the nuclear quantum effects in proton science |
-|  7 | John Doe | New universality of the nuclear quantum effects in proton science |
-|  8 | John Doe | New universality of the nuclear quantum effects in proton science |
-|  9 | John Doe | New universality of the nuclear quantum effects in proton science |
-| 10 | John Doe | New universality of the nuclear quantum effects in proton science |
+| Start | End   |         |
+| :---: | :---: | :------ |
+| 13:00 | 13:30 | **Ming-Kang Tsai** (National Taiwan Normal University, Taiwan)<br>Molecular property prediction using low-dimensional information: A machine learning approach |
+| 13:30 | 14:00 | **Seiji Mori** (Ibaraki University, Japan)<br>Chemical selectivities in the aspect of noncovalent interactions |
+| 14:00 | 14:20 | **Kowit Hengphasatporn** (University of Tsukuba, Japan)<br>PaCS-Q: Python toolkits for path sampling in MD and QM/MM MD simulation |
+| 14:20 | 14:50 | **Coffee Break (30 min.)** |
 
-# Access
+### Session 3
 
-[Kanazawa-Hakkei Campus of Yokohama City University](https://goo.gl/maps/UwE5dQeStBsi8jVu5) is a 5-minutes walk from [Kanazawa-Hakkei Station](https://maps.app.goo.gl/mWU5TP94mPia5UZX8) of [Keikyu line](https://www.haneda-tokyo-access.com/en/).
+Chair: **Tomomi Shimazaki and Kei Terayama** (Yokohama City University, Japan)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13019.591406458434!2d139.5989118!3d35.333358!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601843fd143d2285%3A0xa2bfcf87b9aac00d!2sYokohama%20City%20University%20Kanazawa-Hakkei%20Campus!5e0!3m2!1sen!2sjp!4v1704183177009!5m2!1sen!2sjp" width="600" height="450" style="border:0;margin-bottom:30px; max-width: 100%;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+| Start | End   |         |
+| :---: | :---: | :------ |
+| 14:50 | 15:00 | **Zong-Rong Ye** (National Taiwan Normal University, Taiwan)<br>Attention as information: Interpreting TransformerCPI through the lens of mutual information and biological relevance |
+| 15:00 | 15:10 | **Hiroaki Oeda** (Yokohama City University, Japan)<br>In silico analysis of large-scale conformational changes in Type51 R-body |
+| 15:10 | 15:20 | **Borwornlak Toopradab** (Chulalongkorn University, Thailand)<br>Designing SARS-CoV-2 main protease inhibitors using machine learning in computer-aided drug design |
+| 15:20 | 15:30 | **Takumi Naito** (Yokohama City University, Japan)<br>Theoretical study of the molecular passivation effect of Lewis base/acid on lead-free tin perovskite surface defects |
+| 15:30 | 15:40 | **Tsung-Han Tsai** (National Taiwan Normal University, Taiwan)<br>First-principle simulations for CO2 electrochemical catalysis |
+| 15:40 | 15:50 | **Miu Ashiba** (Yokohama City University, Japan)<br>Effect of Isomers of Halogenated Hydrocarbons on Positron Compounds |
+| 15:50 | 16:00 | **Yumnam Nganthoinganbi** (National Taiwan Normal University, Taiwan)<br>Theoretical investigation on the regioselective γ-insertion of alkynyl carbenes into O-H bonds via photochemical isomerization of α-alkynyl carbene carboxylates |
+| 16:00 | 16:10 | **Makoto Machiyama** (Ibaraki University, Japan)<br>Theoretical studies on the ground- and excited-state behaviors of diarylethene derivatives |
+| 16:10 | 16:20 | **Sheng-Hsuan Hung** (National Taiwan Normal University, Taiwan)<br>Artificial intelligence model development for predicting the chemical properties of organic molecules and organometallic complexes |
+| 16:20 | 16:30 | **Lian Duan** (University of Tsukuba, Japan)<br>Proton Transfer and Catalysis in Cytochrome c Type Nitric Oxide Reductase: Integrated QM/MM and MD Simulations |
+| 16:30 | 17:00 | **Coffee Break (30 min.)** |
 
-## Organizers
+### Session 4
 
-- Prof. John Doe from [YCU](https://www-user.yokohama-cu.ac.jp/~tachi/member.html)
-- Prof. John Doe from [YCU](https://www-user.yokohama-cu.ac.jp/~tachi/member.html)
-- Prof. John Doe from [YCU](https://www-user.yokohama-cu.ac.jp/~tachi/member.html)
+Chair: **Nuttapon Yodsin** (Silpakorn University, Thailand)
+
+| Start | End   |         |
+| :---: | :---: | :------ |
+| 17:00 | 17:30 | **Thanthapatra Bunchuay** (Mahidol University, Thailand)<br>Unlocking Host–Guest Chemistry: Integrated Experimental and Computational Approaches to Pillar[5]arenes |
+| 17:30 | 18:00 | **Azusa Muraoka** (Japan Woman's University, Japan)<br>Empowering Future Women Researchers through Theoretical and Computational Chemistry in Solar Cell Research |
+| 18:00 | 18:20 | **Manussada Ratanasak** (University of Tsukuba, Japan)<br>Revisiting the mechanism of fluoroacetate dehalogenase-catalyzed degradation of fluorocarboxylic acid |
+
+### Closing Remarks
+
+| Start | End   |         |
+| :---: | :---: | :------ |
+| 18:20 | 18:30 | **Closing remarks**<br>by Prof. **Mitsunori Ikeguchi** (Dean, Yokohama City University, Japan) |
+| 18:30 |       | Meeting to exchange opinions |
+
 
 ## Acknowledgment
 
-This project was supported by the XXX.
+This workshop is organized by the Graduate School of NanoBioScience (YCU) and NEXUS (JST), sponsored by SPRING program (YCU) and KAKENHI, and supported by the International Affairs Office (YCU). 
