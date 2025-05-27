@@ -77,4 +77,4 @@ Chair: **Nuttapon Yodsin** (Silpakorn University, Thailand)
 
 ## Acknowledgment
 
-This workshop is organized by the Graduate School of NanoBioScience (YCU) and NEXUS (JST), sponsored by SPRING program (YCU) and KAKENHI, and supported by the International Affairs Office (YCU). 
+This workshop is organized by the [Graduate School of NanoBioScience (YCU)](https://www.yokohama-cu.ac.jp/english/academics/graduate/nanobio/index.html) and [NEXUS (JST)](https://www.jst.go.jp/aspire/nexus/y-tec/theme/2024/vol014.html),<br>sponsored by [SPRING program (YCU)](https://www.yokohama-cu.ac.jp/spring/English/index.html)<br><br>and [Grant-in-Aid for Scientific Research(S) (MEXT, KAKENHI)](https://www.jsps.go.jp/j-grantsinaid/12_kiban/ichiran_r7.html#u20250322182021),<br>&emsp;<img src="https://github.com/ycuqpc/JTTTCC10th/blob/branch/deuterium%202.png" width="300" >&emsp;&emsp;<img src="https://github.com/ycuqpc/JTTTCC10th/blob/branch/QMS-logo.jpg" width="80"><br><br>and supported by the [International Affairs Office (YCU)](https://www.yokohama-cu.ac.jp/english/global/international/index.html) and Grant-in-Aid for Transformative Research Areas (A) (MEXT, KAKENHI).
