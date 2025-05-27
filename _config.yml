@@ -1,26 +1,20 @@
-# https://chirimenmonster.github.io/2021/06/29/jekyll-remote-theme.html
-plugins:
-  - jekyll-theme-yat
-  - jekyll-sass-converter
-  - jekyll-remote-theme
-
 # https://github.com/jeffreytse/jekyll-theme-yat/?tab=readme-ov-file#remote-theme-method-with-github-pages
 remote_theme: "jeffreytse/jekyll-theme-yat"
 
 # https://github.com/jeffreytse/jekyll-theme-yat/blob/master/_config.yml
-title: This is draft!
+title: 8th JTTCC
 email: 
 author: Quantum Physical Chemistry Laboratory, Yokohama City University
 copyright: "© 2024 {author}"
-description: "description description description description description description description description description description"
+description: "This is the website for 8th Japan-Thai workshop on Theoretical and Computational Chemistry 2023."
 # favicon: "./favicon.svg"
 night_mode: "manual"
-brand_color: "#8FC231"
+brand_color: "#238DA7"
 
 defaults:
   home:
-    heading: "International Workshop on Theoretical and Computational Chemistry 2024"
-    subheading: "January XXth, 2024 in Kanazawa-Hakkei Campus of Yokohama City University"
+    heading: "8th Japan-Thai workshop on Theoretical and Computational Chemistry 2023"
+    subheading: "January 19th, 2024 in Kanazawa-Hakkei Campus of Yokohama City University"
     banner: "./home.jpg" # https://www.yokohama-cu.ac.jp/brandguide/materialdata/photodata/index.html
 
 banner:
@@ -52,6 +46,10 @@ translate_langs:
   - lang: th
     img: https://cdn.countryflags.com/thumbs/thailand/flag-400.png
     text: Thai
+
+  - lang: id
+    img: https://cdn.countryflags.com/thumbs/indonesia/flag-400.png
+    text: Indonesia
 
   - lang: en
     img: https://cdn.countryflags.com/thumbs/united-states-of-america/flag-400.png
