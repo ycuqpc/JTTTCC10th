@@ -3,13 +3,17 @@ table td {
 }
 
 .page-banner .page-banner-img {
-	filter: contrast(0.82) brightness(1.0);
+	/* filter: contrast(0.82) brightness(1.0); */
 }
 
 html[data-scroll-status='top'] header.site-header-transparent {
-	text-shadow: 1px 1px 10px #333333AA;
+	text-shadow: 1px 1px 5px #333333AA;
 }
 
 .page-banner .page-banner-inner {
-    text-shadow: 1px 1px 10px #333333AA;
+    text-shadow: 1px 1px 5px #333333AA;
+}
+
+.page-banner .page-banner-inner>*:first-child>:nth-child(1) {
+    line-height: 1.2em;
 }
