@@ -2,19 +2,19 @@
 remote_theme: "jeffreytse/jekyll-theme-yat"
 
 # https://github.com/jeffreytse/jekyll-theme-yat/blob/master/_config.yml
-title: 8th JTTCC
+title: 10th JTTTCC
 email: 
 author: Quantum Physical Chemistry Laboratory, Yokohama City University
-copyright: "© 2024 {author}"
-description: "This is the website for 8th Japan-Thai workshop on Theoretical and Computational Chemistry 2023."
+copyright: "© 2025 {author}"
+description: "This is the website for 10th Japan-Taiwan-Thai workshop on Theoretical and Computational Chemistry 2025."
 # favicon: "./favicon.svg"
 night_mode: "manual"
 brand_color: "#238DA7"
 
 defaults:
   home:
-    heading: "8th Japan-Thai workshop on Theoretical and Computational Chemistry 2023"
-    subheading: "January 19th, 2024 in Kanazawa-Hakkei Campus of Yokohama City University"
+    heading: "10th Japan-Taiwan-Thai workshop on Theoretical and Computational Chemistry 2025"
+    subheading: "May 31st, 2025 in Kanazawa-Hakkei Campus of Yokohama City University"
     banner: "./home.jpg" # https://www.yokohama-cu.ac.jp/brandguide/materialdata/photodata/index.html
 
 banner:
