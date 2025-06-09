@@ -17,7 +17,7 @@ defaults:
   home:
     heading: "10th Japan-Taiwan-Thai workshop on Theoretical and Computational Chemistry 2025"
     subheading: "May 31st, 2025 in Kanazawa-Hakkei Campus of Yokohama City University"
-    banner: "./home.jpg" # https://www.yokohama-cu.ac.jp/brandguide/materialdata/photodata/index.html
+    banner: "./home2.jpg" # https://www.yokohama-cu.ac.jp/brandguide/materialdata/photodata/index.html
 
 banner:
   # video: null             # Video banner source
